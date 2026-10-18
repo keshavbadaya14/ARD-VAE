@@ -1,0 +1,3 @@
+Method,ACTIVE (paper),FID (paper),ACTIVE (ours),FID (ours)
+VAE,16,28.78 ± 0.48,12.40 ± 0.49,18.71 ± 0.50
+ARD-VAE,12.80 ± 0.40,22.24 ± 0.57,12.60 ± 0.49,17.85 ± 0.42
